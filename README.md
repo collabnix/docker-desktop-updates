@@ -3,7 +3,7 @@
 
 | S. No | Release Version | Feature/Product | What's New
 |-------|------|-----|----|
-| 1 | 4.25.0 | Docker Init | - Support for ASP.NET Core 8 |
+| 1 | 4.25.0 | Docker Init | Support for ASP.NET Core 8(in addition to 6 and 7 |
 |    |       | Containerd  |  containerd integration:
 |    |    |   |docker push now supports Layer already exists and Mounted from progress statuses.
 |    |     |  |docker save is now able to export images from all tags of the repository.
